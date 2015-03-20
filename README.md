@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # My tmux configuration
 
 The other day I was trying to teach a friend some [tmux](http://tmux.sourceforge.net)
